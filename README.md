@@ -3,7 +3,7 @@ Achieving Fast Environment Adaptation of DRL-Based Computation Offloading in Mob
 ## Usage:
 To train DDPG:
 ```bash
-python main.py --algorithm dc_drl
+python main.py --algorithm ddpg
 ```
 To train MADDPG:
 ```bash

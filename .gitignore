@@ -1,0 +1,15 @@
+*/*/mjkey.txt
+**/.DS_STORE
+**/*.pyc
+**/*.swp
+MANIFEST
+*.egg-info
+\.idea/
+/data/*
+/models
+/results
+/runs_new
+/tensorboard_fig
+/transfer_results
+/transfer_results (copy)
+/weight

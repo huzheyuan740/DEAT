@@ -1,4 +1,3 @@
-# from src.envs import REGISTRY as env_REGISTRY # 星际争霸2环境的访问器 不需要
 import time
 import datetime
 import os
